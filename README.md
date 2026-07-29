@@ -31,3 +31,8 @@ Design and build an interactive performance dashboard using Google Looker Studio
 3. Data Processing: SQL (BigQuery Standard SQL)
 4. Version Control: Git & GitHub
 
+#Additional Files
+1. Dashboard = PDF File untuk dashboard dari Looker
+2. Table Analysis = SQL Code untuk analisa tabel
+3. PPT = File presentasi
+
